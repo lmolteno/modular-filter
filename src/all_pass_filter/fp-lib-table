@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LCSC")(type "KiCad")(uri "/home/linus/Documents/mod_filter/libs")(options "")(descr ""))
+  (lib (name "Molteno_Filter")(type "KiCad")(uri "/home/linus/Documents/mod_filter/libs/Molteno_Filter.pretty")(options "")(descr ""))
+)

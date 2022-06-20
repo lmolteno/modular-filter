@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LCSC")(type "Legacy")(uri "${KIPRJMOD}/libs/LCSC.lib")(options "")(descr "Generated EasyEDA/LCSC symbols"))
+  (lib (name "mod_filter")(type "KiCad")(uri "${KIPRJMOD}/libs/mod_filter.kicad_sym")(options "")(descr ""))
+)

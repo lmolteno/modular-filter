@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mod_filter")(type "KiCad")(uri "/home/linus/Documents/mod_filter/libs/mod_filter.kicad_sym")(options "")(descr ""))
+  (lib (name "LCSC")(type "Legacy")(uri "/home/linus/Documents/mod_filter/libs/LCSC.lib")(options "")(descr ""))
+)

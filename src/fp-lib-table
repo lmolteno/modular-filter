@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LCSC")(type "KiCad")(uri "${KIPRJMOD}/libs")(options "")(descr ""))
+  (lib (name "Molteno_Filter")(type "KiCad")(uri "${KIPRJMOD}/libs/Molteno_Filter.pretty")(options "")(descr ""))
+)
